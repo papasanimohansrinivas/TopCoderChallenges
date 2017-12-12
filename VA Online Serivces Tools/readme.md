@@ -1,3 +1,10 @@
+# Algorithm 
+
+	1.Use metadatadownloader.js to download metadata.json file to the folder
+	2.Then run urlcatcher.js to get valid url's from meatadata.json
+	3.Finally use read_csv.js to get the data from csv files to postgreSql database.
+	
+
 # VA veteran services Project
 
 ```
@@ -6,6 +13,8 @@ Use download-file to download metadata file from veteran site
 
 
 Use node-dir for getting dir file names in dir 
+
+
 
 
 ```
@@ -21,7 +30,7 @@ Use node-dir for getting dir file names in dir
 
 	2. then read the json file to get the original file data.
 
-	3.v8.4.0 node
+	3.node version v8.4.0
 
 	4. node-dir module
 
