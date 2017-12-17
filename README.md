@@ -3,28 +3,28 @@
 Project
 	|       
 	|------ Scripts
-    |	     	|
-    |			|
-	|        	|----- htmlloader.py
-	|        	|
-	|        	|----- node.py
-	|        	|
-	|        	|----- tree.py
-	|        	|
-	|        	|----- fileopener.py
+   	|	   |
+    	|	   |
+	|          |----- htmlloader.py
+	|          |
+	|          |----- node.py
+	|          |
+	|          |----- tree.py
+	|          |
+	|          |----- fileopener.py
 	|
 	|
 	|------ InputFiles
-	|			|
-	|  			|----- apple.html
+	|	   |
+	|  	   |----- apple.html
 	|
 	|
 	|
 	|
 	|------ OutputFiles
-	|			|
-				|	
-				|----- output.json
+  		   |
+		   |	
+		   |----- output.json
 
 
 ```
